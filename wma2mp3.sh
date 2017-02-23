@@ -1,6 +1,6 @@
 #!/bin/bash
 
-usage="./$(basename "$0") [-h] [-d] [-f] [-o] [-e] -- convert wav files to mp3 using ffmpeg
+usage="./$(basename "$0") [-h] [-d] [-f] [-o] [-e] -- convert wma files to mp3 using ffmpeg
 
 options:
 	-h show this help message
